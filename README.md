@@ -38,3 +38,12 @@ Screenshot:
 
 
 Harness the power of your workforce data to optimize your organization's human resource strategies and ensure a more efficient and equitable workplace. This Power BI dashboard is your key to unlocking the potential of your workforce and driving positive change within your organization.
+
+## How to Use:
+1. Clone this repository to your local machine.
+2. Open the Power BI dashboard file using Power BI Desktop.
+3. Start exploring the data and gaining valuable insights into our organization.
+
+Feel free to contribute or provide feedback to enhance this dashboard further. Your insights can help us make informed decisions.
+
+Happy Analyzing!
